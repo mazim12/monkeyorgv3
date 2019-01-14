@@ -1,0 +1,49 @@
+body {
+        background-image: url('/images/line2.gif');
+}
+
+#all {
+        position: static;
+}
+
+#header {
+        display: none;
+}
+
+#content {
+        padding-top: 86px;
+        text-align: center;
+}
+
+#main {
+        border: 1px solid #0c3;
+        width: 476px; 
+        height: 288px;
+        background-image: url('/images/line5.gif');
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 100px;
+}
+
+#nav {
+        display: block;
+        text-align: right;
+        font-family: "Courier New", Courier, mono;
+        font-weight: bold;
+        list-style: none;
+        height: 188px;
+        width: 326px;
+        margin: 50px;
+        background: url('/images/tmonkey.gif') no-repeat 5px 5px;
+        _width: 376px;
+}
+
+#nav .header {
+        padding-top: 45px;
+        margin-bottom: 5px;
+        font-size: 2em;
+}
+
+#plus {
+        text-align: right;
+}
